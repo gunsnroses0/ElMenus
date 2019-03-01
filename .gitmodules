@@ -4,6 +4,9 @@
 [submodule "ElMenus-Database"]
 	path = ElMenus-Database
 	url = https://github.com/gunsnroses0/ElMenus-Database.git
+[submodule "ElMenus-Auth"]
+	path = ElMenus-Auth
+	url = https://github.com/gunsnroses0/ElMenus-Auth.git
 [submodule "ElMenus-Search"]
 	path = ElMenus-Search
 	url = https://github.com/gunsnroses0/ElMenus-Search.git
