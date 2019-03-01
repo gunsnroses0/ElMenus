@@ -1,3 +1,6 @@
 [submodule "ElMenus-Server"]
 	path = ElMenus-Server
 	url = https://github.com/gunsnroses0/ElMenus-Server.git
+[submodule "ElMenus-Database"]
+	path = ElMenus-Database
+	url = https://github.com/gunsnroses0/ElMenus-Database.git
