@@ -22,3 +22,33 @@
 [submodule "ElMenus-Users"]
 	path = ElMenus-Users
 	url = https://github.com/gunsnroses0/ElMenus-Users.git
+[submodule "ElMenus-Reviews"]
+	path = ElMenus-Reviews
+	url = https://github.com/gunsnroses0/ElMenus-Reviews.git
+[submodule "ElMenus-Comments"]
+	path = ElMenus-Comments
+	url = https://github.com/gunsnroses0/ElMenus-Comments.git
+[submodule "ElMenus-Likes"]
+	path = ElMenus-Likes
+	url = https://github.com/gunsnroses0/ElMenus-Likes.git
+[submodule "ElMenus-Plates"]
+	path = ElMenus-Plates
+	url = https://github.com/gunsnroses0/ElMenus-Plates.git
+[submodule "ElMenus-Orders"]
+	path = ElMenus-Orders
+	url = https://github.com/gunsnroses0/ElMenus-Orders.git
+[submodule "ElMenus-Blocks"]
+	path = ElMenus-Blocks
+	url = https://github.com/gunsnroses0/ElMenus-Blocks.git
+[submodule "ElMenus-Reports"]
+	path = ElMenus-Reports
+	url = https://github.com/gunsnroses0/ElMenus-Reports.git
+[submodule "ElMenus-Chat"]
+	path = ElMenus-Chat
+	url = https://github.com/gunsnroses0/ElMenus-Chat.git
+[submodule "ElMenus-Notifications"]
+	path = ElMenus-Notifications
+	url = https://github.com/gunsnroses0/ElMenus-Notifications.git
+[submodule "ElMenus-Questions"]
+	path = ElMenus-Questions
+	url = https://github.com/gunsnroses0/ElMenus-Questions.git
