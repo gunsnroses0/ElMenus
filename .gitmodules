@@ -55,3 +55,6 @@
 [submodule "ElMenus-CheckIns"]
 	path = ElMenus-CheckIns
 	url = https://github.com/gunsnroses0/ElMenus-CheckIns.git
+[submodule "ElMenus-Restaurants"]
+	path = ElMenus-Restaurants
+	url = https://github.com/gunsnroses0/ElMenus-Restaurants.git
