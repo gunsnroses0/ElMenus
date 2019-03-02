@@ -10,3 +10,12 @@
 [submodule "ElMenus-Search"]
 	path = ElMenus-Search
 	url = https://github.com/gunsnroses0/ElMenus-Search.git
+[submodule "ElMenus-Bucketlists"]
+	path = ElMenus-Bucketlists
+	url = https://github.com/gunsnroses0/ElMenus-Bucketlists.git
+[submodule "ElMenus-Favorites"]
+	path = ElMenus-Favorites
+	url = https://github.com/gunsnroses0/ElMenus-Favorites.git
+[submodule "ElMenus-Followers"]
+	path = ElMenus-Followers
+	url = https://github.com/gunsnroses0/ElMenus-Followers.git
