@@ -52,3 +52,6 @@
 [submodule "ElMenus-Questions"]
 	path = ElMenus-Questions
 	url = https://github.com/gunsnroses0/ElMenus-Questions.git
+[submodule "ElMenus-CheckIns"]
+	path = ElMenus-CheckIns
+	url = https://github.com/gunsnroses0/ElMenus-CheckIns.git
