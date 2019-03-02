@@ -19,3 +19,6 @@
 [submodule "ElMenus-Followers"]
 	path = ElMenus-Followers
 	url = https://github.com/gunsnroses0/ElMenus-Followers.git
+[submodule "ElMenus-Users"]
+	path = ElMenus-Users
+	url = https://github.com/gunsnroses0/ElMenus-Users.git
